@@ -8,9 +8,9 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     </head>
     <body>
-        <div class="jumbotron bg-secondary text-white text-center">
-            <h1 class="mt-3">PROFESSIONAL QUALITY OF LIFE SCALE (PROQOL)</h1>
-            <h6 class="mt-3 lead text-white">COMPASSION SATISFACTION AND COMPASSION FATIGUE (PROQOL) VERSION 5 (2009)</h6>
+        <div class="jumbotron bg-secondary">
+            <h1 class="mt-3 text-white text-center">PROFESSIONAL QUALITY OF LIFE SCALE (PROQOL)</h1>
+            <h6 class="mt-3 lead text-white text-center">COMPASSION SATISFACTION AND COMPASSION FATIGUE (PROQOL) VERSION 5 (2009)</h6>
         </div>
         <div class="container">
             <p class="h4">Description</p>
@@ -393,8 +393,8 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12">
                             <div class="card m-1" style="width: 21rem;">
-                                <div class="card-body bg-secondary text-white text-center">
-                                    <h6 class="card-title">Compassion Satisfaction</h6>
+                                <div class="card-body bg-secondary">
+                                    <h6 class="card-title text-white text-center">Compassion Satisfaction</h6>
                                 </div>
                                 <ul class="list-group list-group-flush">
                                     <li class="list-group-item">
@@ -426,8 +426,8 @@
                         </div>
                         <div class="col-lg-4 col-md-12">
                             <div class="card m-1" style="width: 21rem;">
-                                <div class="card-body bg-secondary text-white text-center">
-                                    <h6 class="card-title">Burnout</h6>
+                                <div class="card-body bg-secondary">
+                                    <h6 class="card-title  text-white text-center">Burnout</h6>
                                 </div>
                                 <ul class="list-group list-group-flush">
                                     <li class="list-group-item">
@@ -459,8 +459,8 @@
                         </div>
                         <div class="col-lg-4 col-md-12">
                             <div class="card m-1" style="width: 21rem;">
-                                <div class="card-body bg-secondary text-white text-center">
-                                    <h6 class="card-title">Secondary Traumatic Stress</h6>
+                                <div class="card-body bg-secondary text-center">
+                                    <h6 class="card-title text-white">Secondary Traumatic Stress</h6>
                                 </div>
                                 <ul class="list-group list-group-flush">
                                     <li class="list-group-item">
