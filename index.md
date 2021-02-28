@@ -10,7 +10,7 @@
     <body>
         <div class="jumbotron bg-secondary text-white text-center">
             <h1 class="mt-3">PROFESSIONAL QUALITY OF LIFE SCALE (PROQOL)</h1>
-            <h6 class="mt-3 lead">COMPASSION SATISFACTION AND COMPASSION FATIGUE (PROQOL) VERSION 5 (2009)</h6>
+            <h6 class="mt-3 lead text-white">COMPASSION SATISFACTION AND COMPASSION FATIGUE (PROQOL) VERSION 5 (2009)</h6>
         </div>
         <div class="container">
             <p class="h4">Description</p>
